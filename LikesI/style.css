@@ -1,0 +1,27 @@
+.right{
+    display: flex;
+    align-items: center;
+}
+.posthead{
+    display: flex;
+    justify-content: space-between;
+}
+.likes{
+    padding-right: 40px;
+}
+.post{
+    border: solid black 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 0px 30px;
+    font-weight: 700;
+    width: 388px;
+    font-family: 'Quicksand', sans-serif;
+}
+button{
+    border: solid black;
+    background-color: rgb(235, 216, 48);
+    font-weight: bold;
+    padding: 4px 12px;
+    box-shadow: 4px 4px 2px 1px;
+}
